@@ -1,13 +1,13 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-
 import { CommonModule } from '@angular/common';
 import { NavbarComponent } from './navbar/navbar.component';
-import { HomeComponent } from './home/home.component';
-import { DocumentosComponent } from './documentos/documentos.component';
 import { ContactoComponent } from './contacto/contacto.component';
 import { FooterComponent } from './footer/footer.component';
+import { HomeComponent } from './home/home.component';
+import { DocumentosComponent } from './documentos/documentos.component';
 import { LoginComponent } from './login/login.component';
+
 
 
 
